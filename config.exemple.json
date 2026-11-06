@@ -1,0 +1,8 @@
+{
+  "api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+  "lat": 46.8511,
+  "lon": -71.3486,
+  "seuil_pluie_mm_24h": 5.0,
+  "seuil_temperature_min": 5.0,
+  "mode_dry_run": true
+}
